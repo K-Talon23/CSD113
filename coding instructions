@@ -1,0 +1,6 @@
+Repeatedly ask the user for a number
+If the user does not enter a number, ignore it and ask again
+Record in an appropriate data structure the number of times the user  enters each different number (e.g. 2 was entered 5 times, 1 was entered once, 3 was entered 2 times, etc.)
+If the user enters the text 'quit', or 'q' (case insensitive) then exit the program
+Before exiting, save in a file named 'numbers.txt' the record of times each number was entered. (You may choose whatever format you like.  One suggestion is to put on each line <number>:<times>, replacing <number> and <times> with the appropriate values.)
+For full marks, your solution must include at least one function, and all functions must have an appropriate docstring
